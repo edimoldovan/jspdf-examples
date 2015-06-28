@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+}
+
+a.generate {
+  background-color: blue;
+  border-radius: 100px;
+  color: white;
+  padding: 20px;
+  float: left;
+  text-decoration: none;
+  margin: 20px;
+}
